@@ -16,4 +16,5 @@
 ### 資料
 
 [secrets --- 機密を扱うために安全な乱数を生成する](https://docs.python.org/ja/3/library/secrets.html#module-secrets)
+
 [snippets](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_secrets.py)
