@@ -1,6 +1,9 @@
 """
 example xxxx
 
-usage: python snippets/xxxxx.py
-https://docs.python.org/ja/
+Usage:
+  python snippets/xxxx.py
+
+See also:
+https://docs.python.org/ja
 """
