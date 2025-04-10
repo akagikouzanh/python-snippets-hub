@@ -32,3 +32,5 @@
 [snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_namedtuple.py)
 
 [snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_deque.py)
+
+[snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_chainmap.py)
