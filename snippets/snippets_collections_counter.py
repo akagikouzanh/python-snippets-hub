@@ -1,5 +1,5 @@
 """
-example collections
+example collections Counter
 
 Usage:
     snippets_collections_counter.py

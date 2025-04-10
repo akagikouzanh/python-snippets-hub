@@ -20,3 +20,5 @@
 [ドキュメント](https://docs.python.org/ja/3.13/library/collections.html)
 
 [snippets-collections-Counter](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_counter.py)
+
+[snippets-collections-default-dict](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_defaultdict.py)
