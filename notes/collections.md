@@ -17,6 +17,7 @@
 
   - Python 3.7 以降、通常の `dict` も挿入順を保持するようになった
   - そのため、**明示的に順序を操作（移動・削除）したい場合のみ `OrderedDict` を使う**のが適切
+  - deque の extendleft の追加結果は引数順序の逆になる
 
 ### 資料
 
@@ -29,3 +30,5 @@
 [snippets-collections-order-dict](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_orderdict.py)
 
 [snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_namedtuple.py)
+
+[snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_deque.py)
