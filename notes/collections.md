@@ -27,3 +27,5 @@
 [snippets-collections-default-dict](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_defaultdict.py)
 
 [snippets-collections-order-dict](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_orderdict.py)
+
+[snippets-collections-namedtuple](https://github.com/akagikouzanh/python-snippets-hub/blob/master/snippets/snippets_collections_namedtuple.py)
